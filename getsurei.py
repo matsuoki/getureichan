@@ -8,7 +8,7 @@ python で今日の月 (PyEphem版)
 http://www.sci-museum.kita.osaka.jp/~egoshi/astronomy/python/python_moon.html
 """
 
-import random
+#import random
 import datetime
 import ephem
 import numpy as np
